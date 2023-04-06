@@ -37,8 +37,8 @@ Outside of work, you can find me working on a DIY project, playing video games, 
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&color=black">
     <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&color=black">
 </p>
-<div align="center" display="flex" wight="100%" >
-<img align="right" wigth="45%"src="https://github-readme-stats.vercel.app/api?username=mohammadaltouq&show_icons=true&locale=en" alt="mohammadaltouq" />
-<img align="left" wigth="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadaltouq&" alt="mohammadaltouq" />
+<div">
+<img align="right" wigth="40%"src="https://github-readme-stats.vercel.app/api?username=mohammadaltouq&show_icons=true&locale=en" alt="mohammadaltouq" />
+<img align="left" wigth="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadaltouq&" alt="mohammadaltouq" />
 </div>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mohammadaltouq&theme=onedark&row=1" alt="mohammadaltouq" /></a> </p>
