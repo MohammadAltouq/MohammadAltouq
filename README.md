@@ -7,8 +7,7 @@ I take pleasure in creating the front-end using React.js, HTML, and CSS, for a s
 <br>
 Outside of work, you can find me working on a DIY project, playing video games, and doing some gardening.</p>
 
-## Worked On:
-
+<!-- ## Worked On: -->
 ## Languages and Tools:
 <p>Programming Languages:
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&color=black">
