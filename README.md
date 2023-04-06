@@ -15,8 +15,8 @@ https://www.linkedin.com/in/mohammad-al-touq-a48b08162/
 <p>Database:</p>
 <p>Framework:</p>
 <p>Tools/DevOps:</p>
-<div>
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=mohammadaltouq&show_icons=true&locale=en" alt="mohammadaltouq" />
-<img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadaltouq&" alt="mohammadaltouq" />
+<div align="center" >
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=mohammadaltouq&show_icons=true&locale=en" alt="mohammadaltouq" />
+<img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadaltouq&" alt="mohammadaltouq" />
 </div>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mohammadaltouq&theme=onedark&row=1" alt="mohammadaltouq" /></a> </p>
